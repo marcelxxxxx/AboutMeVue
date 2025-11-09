@@ -5,7 +5,7 @@
 <template>
   <!-- Vorstellung / Aboutme (Hi-Page)-->
   <div class="w-full h-min mt-20 pt-12">
-    <div class="d animate-nameneffekt overflow-hidden h-8 delay-1000">
+    <div class="animate-nameneffekt overflow-hidden h-8">
       <span class="animate-pulsieren text-2xl text-emerald-400 h-full overflow-hidden whitespace-nowrap transition-all border-r-2" id="name"> Hi, my name is &nbsp; </span>
     </div>
 

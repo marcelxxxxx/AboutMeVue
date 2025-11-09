@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="flex w-full max-w-750 justify-between items-center h-12 box-border z-10 top-0 p-1">
+  <div class="fixed flex w-full max-w-[750px] justify-between items-center h-12 box-border z-10 top-0 p-1 bg-slate-900">
     <h1 class="font-extra-bold text-xl text-emerald-400"> &#60; MARCEL &#47;&#62;</h1>
     <div class="h-full">
       <ul class="relative xs:visible m-0 p-0 h-full flex items-center justify-center pr-7">
