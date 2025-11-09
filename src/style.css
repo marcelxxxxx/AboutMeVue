@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+ @theme {
+     --animate-aboutmeslide: aboutmeslide 1s ease-in forwards;
+     --animate-jobslide: jobslide 1s ease-in forwards;
+     --animate-nameeffekt: nameneffekt 4s ease-in forwards;
+     --animate-pulsieren: pulsieren 1.5s ease-in-out infinite;
+
+     @keyframes aboutmeslide {
+         0% {
+             transform: scale(0.8);
+             transform-origin: top;
+             opacity: 0;
+         }
+
+         40% {
+             transform: scale(0.8);
+             transform-origin: top;
+             opacity: 0;
+         }
+
+         85% {
+             transform: scale(1);
+             opacity: 1;
+         }
+     }
+
+     @keyframes jobslide {
+         0% {
+             transform: scale(0.8);
+             transform-origin: top;
+             opacity: 0;
+         }
+
+         60% {
+             transform: scale(0.8);
+             transform-origin: top;
+             opacity: 0;
+         }
+
+         100% {
+             transform: scale(1);
+             opacity: 1;
+         }
+     }
+
+     @keyframes nameneffekt {
+         0% {
+             width: 0;
+         }
+
+         100% {
+             width: 100%;
+         }
+     }
+
+     @keyframes pulsieren {
+         0% {
+             border-color: transparent;
+         }
+
+         50% {
+             border-color: white;
+         }
+
+         100% {
+             border-color: transparent;
+         }
+     }
+ }
