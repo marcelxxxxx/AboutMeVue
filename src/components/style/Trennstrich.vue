@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="animate-aboutmeslide flex items-center justify-center text-nowrap mt-5 bildresponse:mt-10 transition-all duration-500" id="aboutmediv">
+  <div class="animate-aboutmeslide flex items-center justify-center text-nowrap mt-10 transition-all duration-500 box-border">
     <span class="text-xl text-emerald-400 mx-1"> &#60; </span>
     <div class="h-0.5 w-full bg-emerald-400 m-1"></div>
     <span class="text-xl text-white font-mono mx-1"> {{ name }} </span>
