@@ -19,6 +19,5 @@ import { RouterView } from 'vue-router'
       <div class="[writing-mode:vertical-lr] text-slate-400 mb-2"> Marcel Blankschein</div>
       <div class="bg-slate-400 rounded w-1 h-28"></div>
     </div>
-
   </div>
 </template>

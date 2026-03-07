@@ -4,7 +4,11 @@ import {onMounted} from "vue";
 
 <template>
   <div class="relative w-full md:max-w-[750px] h-full px-2 md:p-0 box-border text-white">
-    <h2 class="font-bold"> Impressum </h2>
+    <RouterLink to="/">
+      zurück
+    </RouterLink>
+
+    <h2 class="font-bold text-3xl my-2"> Impressum </h2>
 
     <div>Marcel Blankschein</div>
     <div>Uhlandstr. 3</div>

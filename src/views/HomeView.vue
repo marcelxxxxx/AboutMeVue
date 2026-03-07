@@ -22,11 +22,11 @@ import Presentation from "@/components/Presentation.vue";
 
     <!-- RECHTLICHES -->
     <div class="w-full h-6">
-     <RouterLink to="/impressum" class="text-white">
+     <RouterLink to="/impressum" class="text-white text-xs hover:underline">
         Impressum
       </RouterLink>
 
-      <RouterLink to="/datenschutz" class="text-white">
+      <RouterLink to="/datenschutz" class="text-white text-xs hover:underline">
         Datenschutz
       </RouterLink>
     </div>
