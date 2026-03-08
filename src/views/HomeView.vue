@@ -16,7 +16,7 @@ import Presentation from "@/components/Presentation.vue";
 
     <Presentation />
 
-    <Trennstrich name="Wo habe ich gearbeitet" />
+    <Trennstrich name="Beruflicher Werdegang" />
 
     <Worked />
 

@@ -44,7 +44,7 @@
       <ul class="w-[80%] grid grid-cols-2 gap-y-1 text-white mt-2">
         <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> Java </li>
         <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> Kotlin (Ktor) </li>
-        <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> Rust </li>
+        <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> Vue.js </li>
         <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> JavaScript</li>
         <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> Tailwind CSS </li>
         <li class="text-nowrap pr-0.5 before:content-['▹'] before:text-emerald-400"> SQL </li>
