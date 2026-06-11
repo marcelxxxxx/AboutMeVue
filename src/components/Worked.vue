@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="animate-jobslide relative flex h-130 min-h-130 md:h-115 md:min-h-115 box-border">
+  <div class="animate-jobslide relative flex h-130 min-h-130 md:h-115 md:min-h-115 box-border" id="worked">
     <!-- Navbar-->
     <div class="relative grid grid-cols-2 md:flex md:justify-start md:flex-col gap-y-1 mb-3 w-full md:w-1/4 mt-2 transition-all duration-500 box-border">
       <!-- SOCOTEC INGENIEURE AG -->
@@ -23,7 +23,7 @@
           <div class="w-full h-4"></div>
 
           <div class="text-lg font-bold pointer-events-none" > Ausbildung zum Fachinformatiker für Anwendungsentwicklung </div>
-          <div class="text-white text-xs" id="zpp_date"> August 2023 - heute </div>
+          <div class="text-white text-xs" id="zpp_date"> August 2023 - Juli 2026 </div>
 
           <div class=" w-full h-4"></div>
 

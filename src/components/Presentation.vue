@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="relative animate-aboutmeslide w-full h-min min-h-full pb-10 px-4 box-border transition-all duration-500 grid grid-cols-1 md:grid-cols-4 gap-x-2">
+  <div class="relative animate-aboutmeslide w-full h-min min-h-full pb-10 px-4 box-border transition-all duration-500 grid grid-cols-1 md:grid-cols-4 gap-x-2" id="aboutme">
 
     <!-- Bild mit Hoverffekt -->
     <div class="relative group flex justify-center h-[250px] min-w-[150px] mt-3 md:col-span-1">

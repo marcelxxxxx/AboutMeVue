@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import {onMounted} from "vue";
 </script>
 
 <template>
@@ -11,11 +10,11 @@ import {onMounted} from "vue";
     <h2 class="font-bold text-3xl my-2"> Impressum </h2>
 
     <div>Marcel Blankschein</div>
-    <div>Uhlandstr. 3</div>
+    <div>Uhlandstr. 5</div>
     <div>42549 Velbert</div>
     <div>Deutschland</div>
 
-    <div>Tel.: +4916098015272</div>
+    <div>Tel.: +49160 980 152 72</div>
     <div>E-Mail: info@marcelblankschein.de</div>
   </div>
 </template>

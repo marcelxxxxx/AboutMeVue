@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
 import Github from "@/components/icons/Github.vue";
+import LinkedIn from "@/components/icons/LinkedIn.vue";
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import Github from "@/components/icons/Github.vue";
     <!-- Label links -->
     <div class="animate-slideleftoutside animate-slideleft fixed left-6 bottom-0 hidden md:flex justify-between items-center flex-col select-none">
       <Github />
+      <LinkedIn />
       <div class="bg-slate-400 rounded w-1 h-28"></div>
     </div>
 
